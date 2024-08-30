@@ -1,1 +1,1 @@
-# dapanda-django
+# dapanda-django-public
