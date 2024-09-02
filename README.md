@@ -1,6 +1,7 @@
 ### Architecture
 
-![Uploading 3조_DAPANDA_CloudArchitecture.png…]()
+![3조_DAPANDA_CloudArchitecture](https://github.com/user-attachments/assets/7e80841c-aa72-4027-8db6-87cee1053a65)
+
 
 
 **Ⅰ. 프로젝트개요**
