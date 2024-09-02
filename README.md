@@ -1,6 +1,7 @@
 ### Architecture
 
-![3조_DAPANDA_CloudArchitecture.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b3392b0e-1046-4adf-8c60-2ca3c16ef363/ab13bf6b-2fed-4d84-95d2-01b39b0cedcd/3%EC%A1%B0_DAPANDA_CloudArchitecture.png)
+![Uploading 3조_DAPANDA_CloudArchitecture.png…]()
+
 
 **Ⅰ. 프로젝트개요**
 
