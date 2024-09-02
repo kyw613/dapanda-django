@@ -54,19 +54,16 @@
     - 오토스케일링 기능을 구현하여 트래픽, 서버의 CPU 또는 RAM 사용량에 따른 유연한 대응이 가능하도록 시스템 설계
     - 백업 및 복구 전략 구축
     
+![image](https://github.com/user-attachments/assets/5901e260-36ad-49ce-bb33-5039b3fe74fb)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b3392b0e-1046-4adf-8c60-2ca3c16ef363/7569da95-d2f0-4b40-819f-167f512419ff/image.png)
+![image (1)](https://github.com/user-attachments/assets/d35a5a6a-2225-4a8c-a20d-cd01daeb288a)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b3392b0e-1046-4adf-8c60-2ca3c16ef363/5a7da94f-ab35-43dc-b09f-fc2c61cda7e7/2787f088-ad7e-47d5-869e-1bc030dbd323.png)
+![image (2)](https://github.com/user-attachments/assets/7be2fe03-75fe-4480-bb08-23596aed1e35)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b3392b0e-1046-4adf-8c60-2ca3c16ef363/e0589b2d-c6f4-4290-84e7-d48d9ad7dc2e/image.png)
+![image (3)](https://github.com/user-attachments/assets/f222a62b-5456-4a02-9bde-42002967ff81)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b3392b0e-1046-4adf-8c60-2ca3c16ef363/725a874e-0ffb-4933-a339-55f3842c07f6/image.png)
+![image (4)](https://github.com/user-attachments/assets/06e25dc5-719c-4ca7-b5f4-a417ce690d23)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b3392b0e-1046-4adf-8c60-2ca3c16ef363/80fa74e1-8155-493f-9d2a-dcb6320044e6/71763743-0408-4aab-bcf7-4d45c02c25d9.png)
+![image (5)](https://github.com/user-attachments/assets/b847ca6b-b14e-4dff-bd1e-efaf5a942639)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b3392b0e-1046-4adf-8c60-2ca3c16ef363/d8196ef0-f05d-4b61-a044-dbdd2fcbac47/c25243a9-bdf8-43df-be9f-ee2ef88ec453.png)
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b3392b0e-1046-4adf-8c60-2ca3c16ef363/c57ee30d-4e07-4fad-9c9a-1c21664a76b1/image.png)
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b3392b0e-1046-4adf-8c60-2ca3c16ef363/22ae0bbf-e8c5-41e2-8847-bd1fc8b7ec8e/image.png)
+![image (6)](https://github.com/user-attachments/assets/66607292-1761-4480-9e72-c572f2347f33)
