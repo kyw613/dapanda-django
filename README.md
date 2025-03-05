@@ -13,7 +13,7 @@
 
 ## 웹화면구성
 
----
+
     
 <img src="https://github.com/user-attachments/assets/5901e260-36ad-49ce-bb33-5039b3fe74fb" width="70%">
 
