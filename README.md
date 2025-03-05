@@ -5,7 +5,7 @@
 
 ## 제안배경 및 필요성
 
----
+
 
 **중고 거래 시장의 문제점 해결**
 
@@ -15,17 +15,17 @@
 
 ---
     
-<img src="https://github.com/user-attachments/assets/5901e260-36ad-49ce-bb33-5039b3fe74fb" width="50%">
+<img src="https://github.com/user-attachments/assets/5901e260-36ad-49ce-bb33-5039b3fe74fb" width="70%">
 
-<img src="https://github.com/user-attachments/assets/d35a5a6a-2225-4a8c-a20d-cd01daeb288a" width="50%">
+<img src="https://github.com/user-attachments/assets/d35a5a6a-2225-4a8c-a20d-cd01daeb288a" width="70%">
 
-<img src="https://github.com/user-attachments/assets/7be2fe03-75fe-4480-bb08-23596aed1e35" width="50%">
+<img src="https://github.com/user-attachments/assets/7be2fe03-75fe-4480-bb08-23596aed1e35" width="70%">
 
-<img src="https://github.com/user-attachments/assets/f222a62b-5456-4a02-9bde-42002967ff81" width="50%">
+<img src="https://github.com/user-attachments/assets/f222a62b-5456-4a02-9bde-42002967ff81" width="70%">
 
-<img src="https://github.com/user-attachments/assets/06e25dc5-719c-4ca7-b5f4-a417ce690d23" width="50%">
+<img src="https://github.com/user-attachments/assets/06e25dc5-719c-4ca7-b5f4-a417ce690d23" width="70%">
 
-<img src="https://github.com/user-attachments/assets/b847ca6b-b14e-4dff-bd1e-efaf5a942639" width="50%">
+<img src="https://github.com/user-attachments/assets/b847ca6b-b14e-4dff-bd1e-efaf5a942639" width="70%">
 
-<img src="https://github.com/user-attachments/assets/66607292-1761-4480-9e72-c572f2347f33" width="50%">
+<img src="https://github.com/user-attachments/assets/66607292-1761-4480-9e72-c572f2347f33" width="70%">
 
